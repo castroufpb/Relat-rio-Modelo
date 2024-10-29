@@ -1,0 +1,309 @@
+ Senhores Acionistas,
+
+ Em cumprimento às disposições legais, a Z S.A., maior empresa da América Latina no
+ desenvolvimento de software aplicativos, a 7ª maior desenvolvedora de sistemas de gestão integrada
+ (ERP) do mundo, 1ª em países emergentes e líder absoluta no Brasil, submete à apreciação de seus
+ acionistas o Relatório da Administração e as correspondentes Demonstrações Financeiras Societárias,
+ acompanhadas do parecer dos auditores independentes, referentes aos exercícios findos em 31 de
+ dezembro de 2010 e 2009, elaboradas de acordo com as práticas contábeis adotadas no Brasil.
+
+
+ MENSAGEM DA ADMINISTRAÇÃO
+
+ Durante o ano de 2010, a economia brasileira experimentou forte crescimento, dando sequencia à
+ rápida recuperação ocorrida depois da crise dos mercados financeiros mundiais e que afetaram a
+ economia global, de maneira generalizada em meados de 2008 e 2009. No caso da Z, os
+ investimentos na consolidação da marca e na unificação dos canais de distribuição, e a melhora de
+ processos internos e das estruturas de desenvolvimento, foram os principais focos de gestão da empresa
+ em 2010. Os resultados desse trabalho já estão refletidos, em mais um ano com indicadores favoráveis,
+ com o atingimento de novos patamares históricos em vendas, número de novos clientes, rentabilidade e
+ número de participantes.
+
+ Dentro da visão de longo prazo da empresa, mais uma vez a Z reforçou sua capacidade de inovação,
+ com gastos próximos a R$150,0 milhões em pesquisa e desenvolvimento, o que equivale a 13,3% da
+ receita líquida da empresa, e que permanece como um dos maiores montantes do mercado brasileiro.
+ De acordo com estudo da Booz and Co. publicado no Jornal Valor Econômico, a Z é considerada
+ hoje uma das 1.000 empresas que mais investem em pesquisa e desenvolvimento no mundo. Ainda no
+ tocante à visão de longo prazo, o quadro da Companhia foi reforçado com aproximadamente 870 novos
+ participantes, sendo que o principal acréscimo ocorreu nas áreas de desenvolvimento e implementação
+ de software. O crescimento observado fez com que a Companhia atingisse faturamento superior à marca
+ de R$1 bilhão e, como consequência da rápida expansão de seus negócios, a participação do mercado de
+ software de gestão, segundo o estudo “Latin America Semiannual ERM Tracker” do instituto IDC, no final
+ do primeiro semestre de 2010, aumentou para 45,3% do mercado brasileiro.
+
+ A Administração avalia que a Z encerrou o ano de 2010 mais preparada, em temos de estrutura,
+ equipe e tecnologia, para dar respostas positivas e contínuas aos principais responsáveis pelo sucesso da
+ companhia, ou seja, clientes, acionistas, participantes, fornecedores e demais parceiros do mercado.
+
+ CENÁRIO ECONÔMICO
+
+ Em 2010, os reflexos da crise financeira, oriunda dos Estados Unidos de 2008 e que se alastrou às demais
+ economias do mundo, permaneceram afetando o cenário global, notadamente nos países centrais, como
+ Estados Unidos e Inglaterra, e em economias européias como a da Espanha, na qual o desemprego
+ permaneceu em patamar de dois dígitos. Ainda na Europa, economias como a da Grécia, tiveram que ser
+ socorridas com financiamentos de outros governos, a fim de evitar contágio na região. Por outro lado, as
+ economias emergentes, como a do Brasil e algumas asiáticas, com destaque para a China,
+ experimentaram um momento distinto com forte crescimento do PIB, motivado principalmente pela
+ inserção de uma nova camada de consumidores na economia interna de cada um desses países. Outra
+ característica relevante do cenário econômico no ano de 2010 foi o acirramento da “guerra cambial”
+ entre os vários países. Nesse movimento, os países buscam resolver seus problemas internos de
+ demanda desvalorizando suas moedas a fim de fazer com que seus produtos fiquem mais baratos no
+ mercado internacional. O efeito no Brasil dessa “guerra” foi a apreciação de 4,3% do Real em relação ao
+ dólar americano, e vários setores da economia brasileira passaram a apresentar perda de
+ competitividade no mercado externo, e também no mercado interno pela competição com os produtos
+ importados em praticamente todos os setores da economia.
+
+ De qualquer forma, o que se viu no Brasil foi um período de crescimento e ampliação de consumo, com
+ forte redução do número de brasileiros nas classes mais baixas e uma concentração maior de poder
+ aquisitivo na classe média (classe C). Os recordes sucessivos de vendas em setores como o imobiliário e
+ de automóveis, se de um lado trouxeram os benefícios de uma economia aquecida por outro lado
+ fizeram aumentar a preocupação com a aceleração inflacionária. A taxa de inflação dada pelo IPCA, que
+ fora em 2009 de 4,31%, acabou 2010 com alta de 5,91%, portanto ligeiramente acima da meta
+ estabelecida pelo Governo. Já o IGPM alcançou 11,32%, sensivelmente superior à deflação de 1,71%
+ alcançada em 2009. A fim de atacar esse processo inflacionário, buscando limitar a demanda, a Selic,taxa
+ de juro básica estabelecida pelo Banco Central, que havia iniciado o ano em 8,75% a.a., a menor desde
+ que foi criada em 1999, chegou no final de 2010 a 10,75% a.a.. Importante citar que o crescimento do
+ PIB de 2010 – de cerca de 7,6%, segundo estimativas, já que até a data deste relatório, o número oficial
+ não havia sido informado, – ocorreu mesmo com o aumento dos juros, bem como em um período de
+ sucessão presidencial. Depois de ser reeleito em 2006, o presidente Luiz Inácio Lula da Silva terminou
+ oito anos de governo com elevada popularidade e fez como sua sucessora, eleita no mês de Novembro,
+ a presidente Dilma Rousseff, primeira mulher a comandar o Brasil. O período eleitoral transcorreu sem
+ sobressaltos, com transição democrática sem efeito relevante na taxa de juros, câmbio ou qualquer
+ outro índice de mercado.
+
+ O Brasil permaneceu em 2010 com destaque nas pautas da mídia e dos investidores internacionais, não
+ só pela continuidade de seu bom desempenho econômico, mas também pela expectativa dos
+ investimentos adicionais com vistas ao avanço de infra estrutura necessários para dar continuidade ao
+ crescimento do país e para dar suporte às necessidades como país-sede da Copa do Mundo de Futebol
+ de 2014 e os Jogos Olímpicos de 2016, que serão sediados na cidade do Rio de Janeiro.
+
+
+ Beneficiada por esse cenário, a indústria de Tecnologia de informação (TI) apresentou crescimento em
+ 2010. No mesmo estudo, já citado, do instituto IDC,datado de dezembro de 2010, a estimativa era de
+ que o mercado de software de gestão no Brasil tivesse crescido mais de 14% na comparação com 2009 e
+ na América Latina acima de 11% em 2010, com uma expectativa de taxa composta de crescimento anual
+ acima de 12% a.a. no período 2008-2014. O ciclo de crescimento da economia, a maior utilização dos
+ instrumentos oriundos da internet, a precificação mais acessível dos computadores e a obrigatoriedade
+ de que mais empresas tenham que aderir ao Sistema Público de Escrituração Digital (SPED) e emitir Nota
+ Fiscal Eletrônica (NF-e) tem ajudado no crescimento de vendas de software de gestão.
+
+
+ DESEMPENHO FINANCEIRO E OPERACIONAL CONSOLIDADO
+
+ Mais uma vez, suportada por fortes fundamentos, a Companhia encerrou um ciclo de 12 meses com
+ indicadores positivos como o aumento do número de novos clientes, crescimento em todas as linhas de
+ receita e lucro recorde de R$137.863 mil, 14,6% superior ao ano anterior. A Z alcançou EBITDA(*)
+ (“Earnings before interest, taxes, depreciation and amortization”; lucro antes de juros, impostos,
+ depreciação e amortização) de R$289.552 mil em 2010, com crescimento de 16,2% sobre o ano de 2009
+ e a margem EBITDA(**) atingiu 25,6%, acima 40 pontos-base quando comparada à margem de 2009.
+
+
+ A Companhia tem conseguido crescer e ao mesmo tempo ampliar sua lucratividade, sem afetar os
+ investimentos em pesquisa e desenvolvimento, fundamentais para a construção do futuro da Z. O
+ ganho de margem tem sido fruto do crescimento da receita combinado a uma forte captura de sinergias
+ oriundas das empresas adquiridas nos últimos anos, e de ganho de eficiência no sistema interno de
+ gestão, com implantação de novos processos e de indicadores de qualidade.
+
+
+ A Z encerra o ano de 2010 com receita líquida de R$1.129.475 mil, com crescimento de 14,2%
+ sobre a receita líquida de 2009. A reorganização no sistema de distribuição, iniciada no segundo
+ semestre de 2009, e a expansão econômica do Brasil e da região, colaboraram significativamente com
+ esse desempenho.
+
+
+ A receita de taxas de licenciamento totalizou R$278.845 mil e cresceu 22,1% ante os R$228.270 mil de
+ 2009. O incremento é justificado pela adição de 2.840 novos clientes de software, e pelo significativo
+ número de clientes atendidos na atual base da Z.
+
+
+ A receita de serviços foi superior em 10,7% à de 2009, alcançando R$367.698 mil. Esse crescimento
+ deve-se principalmente ao aumento no volume de implementações, em função de novas vendas de
+ software para clientes da base e novos e a ampliação das operações dos Serviços de Valor Agregado e de
+ Consultoria.
+
+
+ A receita de manutenção encerrou 2010 com R$513.860 mil, montante 12,6% acima dos R$456.515 mil
+ de 2009. O aumento da base de clientes ativos da Companhia, isto é, que pagam mensalmente por
+ serviços de atualização do software e atendimento, afeta diretamente essa linha de receita, bem como a
+ baixa perda de clientes ao longo do ano foram causas importantes do crescimento dessa rubrica. A
+ Z encerra 2010 com mais de 26 mil clientes ativos.
+
+
+ O custo das taxas de licenciamento apresentou crescimento de 5,3%, saindo de R$22.909 mil, em 2009,
+ para R$24.118 mil, em 2010. Essa linha de custo representa o custo com soluções de terceiros vendidas
+ pela Companhia.
+
+
+ A soma dos custos de serviços e vendas totalizou R$353.332 mil em 2010, crescimento de 19,1% sobre
+ 2009. Esse crescimento de custos, superior ao da receita de serviços, deve-se principalmente ao
+ processo de reestruturação das franquias, principais canais de distribuição da Companhia, que, embora
+ tenha ocorrido no final de 2009, ainda apresentou reflexo de perda de eficiência em 2010.
+
+
+ As despesas com pesquisa e desenvolvimento atingiram R$149.924 mil em 2010, e representaram 13,3%
+ da receita líquida da Companhia. A ampliação dos investimentos na tecnologia proprietária da Z, a
+ fim de torná-la mais versátil, e investimentos em inovações como no segmento de TV digital, foram os
+ principais itens que influenciaram essa linha de despesa, que, conforme já descrito anteriormente, são
+ fundamentais para o futuro dentro do setor de tecnologia da informação.
+
+
+ As despesas com propaganda totalizaram R$32.335 mil em 2010, o equivalente a 2,9% da receita líquida.
+ O foco dos investimentos nessa rubrica foi de reforço da marca Z, através das campanhas
+ publicitárias e de marketing no Brasil e exterior.
+
+
+ As despesas com vendas cresceram 24,1% entre 2010 e 2009, alcançando R$71.225 mil, impactadas por
+ reorganizações internas, a partir da incorporação de equipes de vendas que anteriormente estavam nas
+ franquias. Em contrapartida, conforme explicação no próximo parágrafo, houve redução no volume de
+ comissões pagas, em função da internalização de equipes de vendas.
+
+
+ As despesas com comissões passaram de R$102.970 mil, em 2010, para R$108.508 mil, em 2010,
+ crescimento de 5,4%. Esse crescimento menos acelerado do que o aumento de vendas foi influenciado,
+ conforme o parágrafo acima, pela internalização de estruturas de vendas.
+
+
+ As despesas gerais e administrativas totalizaram em 2010 R$71.819 mil, redução de 5,8% sobre os
+ R$76.268 mil de 2009. A representatividade dessa linha de despesa em relação à receita líquida passou
+ de 7,7%, em 2009 para 6,4%, em 2010, refletindo os ganhos de escala da otimização de estrutura.
+
+
+ As despesas com honorários da administração atingiram em 2010 R$27.967 mil, redução de 11,9% sobre
+ o valor do ano de 2009, influenciado pela provisão do atingimento proporcional das metas financeiras da
+ empresa.
+
+
+ A despesa com provisão para créditos de liquidação duvidosa em 2009 acumulou R$10.595 mil, 37,2%
+ superior a 2009. O incremento é decorrente da análise da carteira de recebíveis da empresa, e o
+ julgamento sobre potenciais perdas que a empresa possa ter, e que corresponde a 0,9% da receita
+ líquida 2010 (0,8% em 2009).
+
+ As despesas com depreciação e amortização totalizaram em 2010 R$77.883 mil, ante R$69.918 mil em
+ 2009, aumento de 11,4%. Essa elevação do patamar de despesas com depreciação e amortização traduz
+ o crescimento da infra-estrutura da Companhia e o aumento do volume de amortização de intangíveis
+ oriundos de aquisições de operações.
+
+
+ As despesas financeiras alcançaram R$68.172 mil, um aumento de 35% em comparação às despesas de
+ R$50.481 mil em 2009. Esse aumento decorre, principalmente, da maior despesa de juros sobre
+ financiamentos BNDES e PROSOFT, (R$37.023 mil em 2010 vs. R$33.480 mil em 2009), marcação a
+ mercado do prêmio de não conversão das debêntures (R$11.801 mil em 2010 vs. R$9.442 mil em 2009),
+ e deságio na emissão de ações aos debenturistas em 19 de agosto de 2010 quando da conversão
+ obrigatória a preço inferior ao de mercado (R$7.442 mil em 2010).
+
+
+ O caixa da Z em 31 de Dezembro de 2010 é de R$232.508 mil, representando um aumento de
+ 11,9% sobre a posição de R$ 207.721 mil em 31/12/2009. A empresa reitera que tem política
+ conservadora na gestão de suas atividades financeiras, ativas e passivas, e que não realizou nenhuma
+ operação especulativa no mercado financeiro.
+
+
+ O lucro líquido alcançou o recorde de R$137.863 mil em 2010, crescimento de 14,6% na comparação
+ com 2009.
+
+ (*) O EBITDA é uma medição não contábil elaborada pela Companhia, calculada observando uma das
+ sugestões do Oficio Circular CVM nº 01/2007, consistindo no lucro antes dos impostos e contribuições,
+ das participações de minoritários, despesa/receita financeira líquida (receita e despesas financeiras),
+ depreciação e amortização e resultado não operacional.
+
+ (**) A margem de EBITDA representa a relação percentual entre o EBITDA e receita liquida.
+
+ MERCADO DE CAPITAIS
+
+ Em 31 de dezembro de 2010, as ações em circulação (free float) representavam 76,4% do total de ações
+ da Companhia, ou 24.035.873 de um total de 31.459.272 ações. O percentual que não faz parte do free
+ float corresponde às participações dos administradores da Companhia, incluindo as pessoas vinculadas e
+ empresas controladas por estes (18,33%), assim como a participação da BNDES Participações S/A
+ (5,27%).
+
+ Em 2010 as ações da Z (Bovespa: Z) apresentaram valorização de 43,2% frente a valorização
+ de 1,0% do IBOVESPA.
+
+ O volume financeiro médio no ano de 2010 registrou R$15,7 milhões/dia, contra R$4,9 milhões/dia no
+ ano de 2009, crescimento de 217,7%.
+ Juros sobre o capital próprio referentes ao exercício 2009: aprovados e pagos respectivamente em 10
+ de dezembro de 2009 e 20 de janeiro de 2010, o montante de R$22.500 mil é relativo ao exercício 2009
+ e foi imputado ao dividendo mínimo obrigatório nos termos do artigo 37 do Estatuto Social da Z,
+ resultando em um valor por ação de R$0,7223 (setenta e dois centavos).
+
+
+ Dividendos referentes ao exercício 2009: Em 14 de abril de 2010, conforme aprovado na Assembléia
+ Geral Ordinária de 24 de março de 2010, a Companhia distribuiu dividendos referentes ao exercício findo
+ em 31 de dezembro de 2009, no montante de R$49.598 mil), resultando em um valor por ação de
+ R$1,5921 (um real e cinqüenta e nove centavos).
+
+ Juros sobre o capital próprio referentes ao exercício 2010: No dia 21 de dezembro de 2010, a
+ Companhia anunciou aos seus acionistas a deliberação de juros sobre o capital próprio no montante
+ total de R$27.000 mil, relativos ao exercício de 2010, correspondente a R$ 0,858252 por ação, tendo
+ feito jus ao provendo os acionistas detentores de ações de emissão da Z no dia 21/12/2010 pagos
+ no dia 19/01/2011.
+ A distribuição é relativa ao exercício 2010 e o montante será imputado ao dividendo mínimo obrigatório
+ nos termos do artigo 37 do Estatuto Social da Z.
+
+ Dividendos referentes ao exercício 2010: propostos pelo Conselho de Administração em 27 de janeiro
+ de 2011, o montante totaliza R$83.350 mil e será submetido à deliberação da Assembléia Geral
+ Ordinária.
+
+
+ GOVERNANÇA CORPORATIVA
+
+ Novo Mercado: a Z foi a primeira Companhia de software brasileira a aderir a modalidade que
+ atende as melhores práticas de governança corporativa da Bolsa de Valores, Mercadorias e Futuros –
+ (BM&FBOVESPA).
+
+ Conselho Administrativo: o Conselho de Administração da Z é composto por 5 conselheiros, sendo
+ 4 externos e independentes, segundo as definições do Novo Mercado. A diretoria executiva da
+ Companhia é composta por 29 diretores. A lista com o nome, descrição de cargo e breve currículo dos
+ conselheiros e diretores pode ser encontrada no website www.z.com/ri.
+
+ Comitê de auditoria: criado em 2007, o grupo auxilia o Conselho na tarefa de conduzir da melhor
+ maneira, e seguindo as melhores práticas de mercado, a execução da auditoria interna e externa da
+ Companhia. Os membros são eleitos pelo Conselho de Administração, encontrando-se pelo menos 8
+ vezes ao ano e possui, atualmente, 3 membros.
+
+ Comitê de Gente: instituído na Z com o objetivo de auxiliar o Conselho de Administração na
+ definição da remuneração e benefícios dos diretores e conselheiros. Importante ressaltar que hoje a
+ empresa conta com 4 membros, sendo 2 externos.
+
+ Arbitragem: Pelo Regulamento do Novo Mercado, e pelo Estatuto Social da Companhia, o acionista
+ controlador, os administradores, a própria Companhia e os membros do Conselho Fiscal devem
+ comprometer-se a resolver toda e qualquer disputa ou controvérsia relacionada ou oriunda a estas
+ regras do Regulamento do Novo Mercado, do Contrato de Participação no Novo Mercado, das Cláusulas
+ Compromissórias, em especial, quanto à sua aplicação, validade, eficácia, interpretação, violação e seus
+ efeitos, através da arbitragem. Também serão resolvidas por arbitragem as divergências quanto à
+ alienação de Controle da Companhia.
+
+ Declaração da Diretoria: em conformidade com o inciso VI do Artigo 25 da Instrução CVM nº 480/09, os
+ diretores da Z declaram que discutiram, reviram e concordaram com as opiniões expressas no
+ parecer dos auditores independentes e com as demonstrações financeiras referentes ao exercício social
+ encerrado em 31 de dezembro de 2010.
+
+
+ RELACIONAMENTO COM OS AUDITORES INDEPENDENTES
+
+ A política da Companhia na contratação de serviços não relacionados à auditoria externa com os
+ auditores independentes se fundamenta nos princípios que preservam sua independência. Esses
+ princípios consistem nos padrões internacionalmente aceitos, em: (a) o auditor não deve auditar seu
+ próprio trabalho; (b) o auditor não deve exercer função de gerência no seu cliente; e (c) o auditor não
+ deve gerar conflitos de interesses de seus clientes.
+
+ Procedimentos adotados pela Companhia, conforme inciso III, art. 2º Instrução CVM nº381/03: A
+ Companhia e suas controladas adotam como procedimento formal, previamente à contratação de outros
+ serviços profissionais que não os relacionados à auditoria contábil externa, consultar os auditores
+ independentes, no sentido de assegurar-se que a realização da prestação destes outros serviços não
+ venha a afetar sua independência e objetividade, necessárias ao desempenho dos serviços de auditoria
+ independente, bem como obter aprovação de seu Comitê de Auditoria. Adicionalmente são requeridas
+ declarações formais destes mesmos auditores quanto à sua independência na realização dos serviços de
+ não auditoria.
+
+ Além dos serviços de auditoria das demonstrações financeiras anuais foram prestados serviços
+ relacionados com auditoria. Os honorários desses serviços totalizaram R$363,7 mil, representando
+ 45,7% do total dos honorários relacionados à auditoria externa.
+
+
+
+ AGRADECIMENTOS
+
+ Agradecemos todos aqueles que de alguma forma fizeram contribuições à Companhia, possibilitando
+ assim o sucesso da Z no mercado brasileiro e latino-americano, em especial reconhecemos as
+ contribuições de nossos participantes, nossos acionistas, nossos clientes e nossos parceiros.
